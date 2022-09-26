@@ -71,3 +71,6 @@ here you'll find the lfo, both free-running and midi tempo synced
 - christopher-h-m-jacques and his patch Gain Finale https://patchstorage.com/gain-finale-a-stereo-gain-patch/
 - Hakon Soreide's zoia youtube videos, especally the one on radio buttons https://www.youtube.com/watch?v=u5G-qdO6vL8&t=1094s, I used that a lot in this patch
 - the ZOIA Anti-GAS Archive https://patchstorage.com/question/welcome-to-the-zoia-anti-gas-archive/, which inspired me to complete and share this patch on PatchStorage
+
+## revision history
+- 0.1 - [Initial release](https://github.com/rasprague/zoia-patches/commit/a8647f8c901cb7028134c61b4592c47d0c084916)
