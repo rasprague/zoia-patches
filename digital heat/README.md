@@ -19,28 +19,28 @@ I had to keep the patch mono. the OD / Distorion and Fuzz modules are pretty cpu
 0. front page ctrl  
 here you'll find the main controls of the patch
     - row 1  
-        - mono / streeo in select (stereo signals get summed to mono)
+        - mono / stereo in select (stereo signals get summed to mono)
         - input sensitivity
         - out volume
     - row 2
-        - boost (into the overdive / fuzz modules)
+        - boost (into the overdrive / fuzz modules)
         - drive amount
         - wet level
         - dry wet mix
         - dirt (boost into the filter)
         - od / fuzz select
     - row 3
-        - filter frequency and resonasnce
+        - filter frequency and resonance
         - lpf / bpf / hpf select
         - low / mid / high eq
-    - the bottom two rows are the modualtion sources, patch the cv-outs to various desinations
+    - the bottom two rows are the modulation  sources, patch the cv-outs to various destinations
         - envelope follower + inverted
         - envelope + inverted
         - lfo + inverted
 1. modulation ctrl  
 here you'll find the modulation controls (and compression controls) of the patch
     - row 1
-        - band-pass filter freqency and q (carve out which frequencies the envelope follower sees)
+        - band-pass filter frequency  and q (carve out which frequencies the envelope follower sees)
         - gain (into the enveloper follower)
         - envelope follower rise and fall times
         - comparator trigger level (level at which the envelope follower triggers the adsr envelope)
@@ -51,7 +51,7 @@ here you'll find the modulation controls (and compression controls) of the patch
     - row 3
         - compressor threshold, ratio, attack, release
         - compressor bypass / enable select
-    - the bottom two rows are the modualtion sources (mirrored from page 0), patch the cv-outs to various desinations
+    - the bottom two rows are the modulation  sources (mirrored from page 0), patch the cv-outs to various destinations
 2. signal flow
 3. od fuzz  
 here are the overdrive and fuzz modules
