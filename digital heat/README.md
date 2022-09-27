@@ -66,7 +66,7 @@ here you'll find the lfo, both free-running and midi tempo synced
 
 ## some tips
 * for a more subtler overdrive sound, try turning up boost into a 0-drive amount overdrive (I borrowed this idea from christopher-h-m-jacques's patch Gain Finale)
-* try tweaking the modulation bpf frequency and q, envelope follower rise ad fall, and comparator trigger level settings to follow your bass kick drum. then patch the envelope inverted modulation source to things, e.g. drive amount, dry wet, output volume, etc. for some sidechain-ish effects. tweak the adsr settings to taste.
+* try tweaking the modulation bpf frequency and q, envelope follower rise and fall, and comparator trigger level settings to follow your bass kick drum. then patch the envelope inverted modulation source to things, e.g. drive amount, dry wet, output volume, etc. for some sidechain-ish effects. tweak the adsr settings to taste.
 
 ## thanks
 * christopher-h-m-jacques and his patch Gain Finale https://patchstorage.com/gain-finale-a-stereo-gain-patch/
