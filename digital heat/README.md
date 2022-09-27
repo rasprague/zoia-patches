@@ -4,7 +4,7 @@ Mono Digital Sound Processor inspired by Elekton's Analog Heat
 
 basically it's a dirtbox with bells and whistles and lots of knobs for tweaking
 
-I had to keep the patch mono. the OD / Distorion and Fuzz modules are pretty cpu heavy (~20%). when I tried adding a stereo path the cpu maxed out quickly and stuff stopped responding =[
+I had to keep the patch mono. the OD / Distortion and Fuzz modules are pretty cpu heavy (~20%). when I tried adding a stereo path the cpu maxed out quickly and stuff stopped responding =[
 
 ## features
 - lots of ways to tweak an overdrive / distortion / fuzz sound
@@ -69,7 +69,7 @@ here you'll find the lfo, both free-running and midi tempo synced
 
 ## thanks
 - christopher-h-m-jacques and his patch Gain Finale https://patchstorage.com/gain-finale-a-stereo-gain-patch/
-- Hakon Soreide's zoia youtube videos, especally the one on radio buttons https://www.youtube.com/watch?v=u5G-qdO6vL8&t=1094s, I used that a lot in this patch
+- Hakon Soreide's zoia youtube videos, especially the one on radio buttons https://www.youtube.com/watch?v=u5G-qdO6vL8&t=1094s, I used that a lot in this patch
 - the ZOIA Anti-GAS Archive https://patchstorage.com/question/welcome-to-the-zoia-anti-gas-archive/, which inspired me to complete and share this patch on PatchStorage
 
 ## revision history
