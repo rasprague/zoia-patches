@@ -76,4 +76,4 @@ here you'll find the lfo, both free-running and midi tempo synced
 * the ZOIA Anti-GAS Archive https://patchstorage.com/question/welcome-to-the-zoia-anti-gas-archive/, which inspired me to complete and share this patch on PatchStorage
 
 ## revision history
-* 0.1 - [Initial release](https://github.com/rasprague/zoia-patches/commit/a8647f8c901cb7028134c61b4592c47d0c084916)
+* 0.1 - [Initial release](https://github.com/rasprague/zoia-patches/commit/5bb2f46af4e1b3eccade58bd79eef1da834b5197)
