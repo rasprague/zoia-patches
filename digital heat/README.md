@@ -3,6 +3,8 @@ https://patchstorage.com/digital-heat/
 a Zoia patch  
 Mono Digital Sound Processor inspired by Elekton's Analog Heat
 
+I used the signal flow diagram in the Analog Heat's user manual as a guide https://www.elektron.se/us/analog-heat-mkii-explorer
+
 basically it's a dirtbox with bells and whistles and lots of knobs for tweaking
 
 I had to keep the patch mono. the OD / Distortion and Fuzz modules are pretty cpu heavy (~20%). when I tried adding a stereo path the cpu maxed out quickly and stuff stopped responding =[
