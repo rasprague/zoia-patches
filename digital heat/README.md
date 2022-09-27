@@ -1,4 +1,5 @@
-# digital heat
+# digital heat  
+https://patchstorage.com/digital-heat/  
 a Zoia patch  
 Mono Digital Sound Processor inspired by Elekton's Analog Heat
 
